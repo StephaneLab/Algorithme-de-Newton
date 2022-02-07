@@ -1,5 +1,5 @@
 #!/usr/bin/python3.9
-# GPL-3 Copyright (c) 2022 Stéphane Lassalvy
+# Licence GPL-3 Copyright (c) 2022 Stéphane Lassalvy
 from math import sqrt
 import matplotlib.pyplot as plt
 import numpy as np
